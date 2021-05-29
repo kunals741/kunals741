@@ -15,7 +15,7 @@
 [<img align="left" alt="kunalsatpute.com" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/electron.svg" />][website]
 [<img align="left" alt="Kunal | LinkedIn" width="22px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Kunal | Twitter" width="22px" src="https://github.com/github/explore/blob/main/topics/twitter/twitter.png?raw=true" />][twitter]
+[<img align="left" alt="Kunal | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />][twitter]
 
 <br />
 
@@ -48,8 +48,8 @@
 <img align="left"  alt="Heroku"  width="26px"  src="https://github.com/github/explore/blob/main/topics/heroku/heroku.png?raw=true" />
 
 <br />
-
 <br />
+---
 
 [website]: www.kunalsatpute.com
 [twitter]: https://twitter.com/KunalSatpute_
