@@ -2,7 +2,7 @@
 
 ## I'm a Student, and Reactjs Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything!
 
 - 👯 I’m actively looking for an internship
 
@@ -49,7 +49,8 @@
 
 <br />
 <br />
----
+
+
 
 [website]: www.kunalsatpute.com
 [twitter]: https://twitter.com/KunalSatpute_
